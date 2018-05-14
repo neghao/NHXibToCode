@@ -1,2 +1,0 @@
-# NHXibToCode
-xibToCode
